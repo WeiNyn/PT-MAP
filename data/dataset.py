@@ -29,5 +29,3 @@ class PatternDataset(torch.utils.data.Dataset):
         
         return image, label
     
-class ShapeDataset(torch.utils.data.Dataset):
-    def __init__(self, data_file, transform, target_transform=identity, len:int = 5000, crop_size = (256, 256))
