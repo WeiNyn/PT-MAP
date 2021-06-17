@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+checkpoints/
+draft/
+pt_map/
+120_samples_database_cut/
+test_base/
+test/
+mask/
